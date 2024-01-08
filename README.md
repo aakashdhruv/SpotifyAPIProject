@@ -3,6 +3,8 @@ This project logs into your spotify account, and on the website you are prompted
 
 To run this project, type the following lines into your terminal one by one:
 
+npm init
+
 npm install express
 
 npm install request
