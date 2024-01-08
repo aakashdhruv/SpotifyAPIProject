@@ -7,7 +7,7 @@ npm install express
 
 npm install request
 
-npm install corstin
+npm install cors
 
 npm install querystring
 
